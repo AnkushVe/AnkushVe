@@ -5,7 +5,7 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="50" height="50"> , I'm Ankush Verma</h1>
 <h3 align="center">A AI/ML enthusiastic , a sportsman and a singer!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/25180324a2932fbf665f7d73a38cf0aed024412a58dca6c340d42c8ff233d521/68747470733a2f2f7777772e706978656c637261796f6e732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30382f67726561742d636f6465722e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/25180324a2932fbf665f7d73a38cf0aed024412a58dca6c340d42c8ff233d521/68747470733a2f2f7777772e706978656c637261796f6e732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30382f67726561742d636f6465722e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushve&label=Profile%20views&color=0e75b6&style=flat" alt="ankushve" /> </p>
