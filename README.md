@@ -10,17 +10,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushve&label=Profile%20views&color=0e75b6&style=flat" alt="ankushve" /> </p>
 
-- 🔭 I’m currently working on **Generative AI**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Girl in a jacket" width="20" height="20">  I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **AI/ML**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> I’m currently learning **AI/ML**
 
-- 🤝 I’m looking for help with **AI/ML**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Girl in a jacket" width="20" height="20">  I’m looking for help with **AI/ML**
 
-- 👨‍💻 All of my projects are available at [ankushve](ankushve)
 
-- 📫 How to reach me **vermaankush5497@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> All of my projects are available at [ankushve](ankushve)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankushv18/](https://www.linkedin.com/in/ankushv18/)
+- <img src="https://www.emojiall.com/images/240/telegram/1f4ac.gif" alt="Girl in a jacket" width="20" height="20"> Ask me about   **DSA,OS,DBMS,CN,LLD**
+
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Girl in a jacket" width="20" height="20"> Contact me **vermaankush5497@gmail.com**
+
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> Know about my experiences [https://www.linkedin.com/in/ankushv18/](https://www.linkedin.com/in/ankushv18/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
