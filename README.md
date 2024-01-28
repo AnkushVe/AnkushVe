@@ -17,7 +17,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Girl in a jacket" width="20" height="20">  I’m looking for help with **AI/ML**
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> All of my projects are available at [ankushve](ankushve)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> All of my projects are available at [AnkushVe](https://github.com/AnkushVe?tab=repositories)
 
 - <img src="https://www.emojiall.com/images/240/telegram/1f4ac.gif" alt="Girl in a jacket" width="20" height="20"> Ask me about   **DSA,OS,DBMS,CN,LLD**
 
