@@ -25,7 +25,7 @@
 
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> Know about my experiences [https://www.linkedin.com/in/ankushv18/](https://www.linkedin.com/in/ankushv18/)
 
--  ## Work Experience
+  ## Work Experience
 
 ```mermaid
   gantt
@@ -41,8 +41,6 @@
     AI Intern at RadicalX :a4, 2024-01-01, 2024-04-01
     section Infosys Springboard
     AI Intern at Infosys Springboard :a5, 2024-04-01, 2024-05-31
-
-    
 
 
 ```
