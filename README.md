@@ -25,6 +25,28 @@
 
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="20" height="20"> Know about my experiences [https://www.linkedin.com/in/ankushv18/](https://www.linkedin.com/in/ankushv18/)
 
+-  ## Work Experience
+
+```mermaid
+  gantt
+    dateFormat  YYYY-MM-DD
+    section Sify
+    
+    Machine Learning Intern at Sify Technologies Limited :a1, 2023-06-01, 2023-9-01
+    section SmartInternz 
+    Salesforce Supported Developer at SmartInternz :a2, 2023-10-01, 2023-12-1
+    section The Sparks Foundation
+    IoT & Computer Vision intern at The Sparks Foundation :a3, 2023-12-01, 2023-12-31
+    section RadicalX
+    AI Intern at RadicalX :a4, 2024-01-01, 2024-04-01
+    section Infosys Springboard
+    AI Intern at Infosys Springboard :a5, 2024-04-01, 2024-05-31
+
+    
+
+
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/ankushv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankushv" height="30" width="40" /></a>
