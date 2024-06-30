@@ -40,7 +40,7 @@
     section RadicalX
     AI Intern at RadicalX :a4, 2024-01-01, 2024-04-01
     section Infosys Springboard
-    AI Intern at Infosys Springboard :a5, 2024-04-01, 2024-05-31
+    AI Intern at Infosys Springboard :a5, 2024-04-01, 2024-06-20
 
 
 ```
