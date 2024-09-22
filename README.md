@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064?width=500" alt="MasterHead" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width=500" alt="MasterHead" width="700">
 </p>
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Girl in a jacket" width="50" height="50"> , I'm Ankush Verma</h1>
 <h3 align="center">A AI/ML enthusiastic , a sportsman and a singer!</h3>
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/25180324a2932fbf665f7d73a38cf0aed024412a58dca6c340d42c8ff233d521/68747470733a2f2f7777772e706978656c637261796f6e732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30382f67726561742d636f6465722e676966">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushve&label=Profile%20views&color=0e75b6&style=flat" alt="ankushve" /> </p>
